@@ -7,12 +7,7 @@ next install firebase latest version  into the project.
 ```bash 
  npm install firebase 
  ```
-
 code must be use after Authentication from firebase 
-
-```bash 
- npm install 
- ```
  run the development server:
 ```bash
 npm run dev
