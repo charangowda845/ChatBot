@@ -3,10 +3,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First create Next.js project  wtih help of https://nextjs.org/ 
-next install firebase into the project. 
+next install firebase latest version  into the project. 
 ```bash 
- npm install firebase latest  version
+ npm install firebase 
  ```
+
 code must be use after Authentication from firebase 
 
 ```bash 
